@@ -6,9 +6,15 @@ Recherche Operationnelle Approfondie — Master 1 Informatique — 2025-2026
 
 Auteurs	
 KANKU KANKOLONGO Stephane	
-BAZEBANZEA LIPEKENE Enoc	
+
+BAZEBANZEA LIPEKENE Enoc
+
 MANYA EWEY Dieumci	
+
 KISIMBULA MAKOKA Pascal	
+
 MVI TOMY Florent	
+
 KINDA BOOTO Mardoche	
+
 MANDANGI LUKOMBO Roldy	
