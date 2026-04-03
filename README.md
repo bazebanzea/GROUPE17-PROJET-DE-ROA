@@ -5,6 +5,7 @@ Departement de Mathematique, Statistique et Informatique
 Recherche Operationnelle Approfondie — Master 1 Informatique — 2025-2026
 
 Auteurs	
+
 KANKU KANKOLONGO Stephane	
 
 BAZEBANZEA LIPEKENE Enoc
